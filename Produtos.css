@@ -2,4 +2,13 @@ header{
   background:#bbbbbb
 }
 nav li{
-  display:inline
+  display:inline;
+  margim:00015px;
+}
+nav a{
+  text-transform:uppercase;
+  color:#000000;
+  font-weizht:bold;
+  font-size: 22px;
+  tex-decoration:nome;
+}
