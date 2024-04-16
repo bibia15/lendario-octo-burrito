@@ -24,7 +24,9 @@ nav a{
   tex-decoration:nome;
 }
 nav a:haver{
-  
+  color:#c78c19;
+  test-descoration:underline;
+}
 .produtos li {
     display: inline-block;
     text-align: center;
