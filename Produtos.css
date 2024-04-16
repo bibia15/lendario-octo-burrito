@@ -23,6 +23,8 @@ nav a{
   font-size: 22px;
   tex-decoration:nome;
 }
+nav a:haver{
+  
 .produtos li {
     display: inline-block;
     text-align: center;
