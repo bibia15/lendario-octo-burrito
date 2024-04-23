@@ -46,7 +46,15 @@ nav a:haver{
     padding: 30px 20px;
     box-sizing: border-box;
 }
-
+produtos li:hover{
+    boder-color:green;
+}
+produtos:acive{
+    boder-color:red;
+}
+produtos li:hover h2{
+    font-size:34px;
+}
 .produtos h2 {
     font-size: 30px;
     font-weight: bold;
