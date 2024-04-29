@@ -79,3 +79,21 @@ footer{
     font-size:13px;
     margin:20px 00;
 }
+main{
+    width:940px;
+    margin:0 auto;
+}
+form{
+    margin:40px0;
+}
+form label{
+    display:block;
+    font-size:20px;
+    margin:0010px;
+}
+form input{
+    dislay:block;
+    margin:0020px;
+    padding:10px 25px;
+    whidth:50x;
+}
