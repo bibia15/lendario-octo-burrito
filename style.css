@@ -43,7 +43,7 @@ nav a:hover {
 .produtos {
 	width: 940px;
 	margin: 0 auto;
-	padding: 50px 0;
+        padding: 50px 0;
 }
 
 .produtos li {
@@ -97,11 +97,9 @@ footer {
 	margin: 20px 0 0;
 }
 
-main {
-	width: 940px;
-	margin: 0 auto;
-}
+ main{
 
+ }
 form {
 	margin: 40px 0;
 }
@@ -190,9 +188,30 @@ td, th {
 .imagem-beneficios {
 	width: 60%;
 }
+.conteudo-beneficios{ 
+	width: 640px;
+	margin: 3em 0;
+}
 
+.lista-benefios{
+	width:40%;
+	display:enline-blck;
+	vertical-align:top;
+}
+.itens{
+line-height:1.5;
+}
+ .itens:firts-child{
+	 font-wlight:bold;
+ }
+.benefios{
+	padding:3em 0;
+	background:#888888;
+}
+	
 .mapa {
-    padding: 3em 0;
+    pading: 3em 0;
+    backgroud:linear-gradient(#fefefe, #888888)
 }
 
 .mapa p {
